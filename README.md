@@ -20,9 +20,9 @@ Install as usual, see [this](https://drupal.org/documentation/install/modules-th
 
 ## Configuration
 
-Configure the image-tool kit to use ImageMagick rather than GD in Administration > Configuration > Media > Image Toolkit (admin/config/media/image-toolkit). If GD is selected, TN and JPG datastreams will not be generated.
+Configure the image-tool kit to use ImageMagick rather than GD in Administration > Configuration > Media > Image Toolkit (admin/config/media/image-toolkit). If GD is selected, TN and JPG datastreams will not be generated. Some options (marked in red below) will only show after ImageMagick Advanced is enabled.
 
-![Configuration](https://camo.githubusercontent.com/6ae64673716ddf1f58d0e4856d7d7a5d79845506/687474703a2f2f692e696d6775722e636f6d2f4f33735150654f2e706e67)
+![Configuration](https://user-images.githubusercontent.com/2738244/39441900-70d1ea60-4c7d-11e8-9c1a-f22be8606aca.png)
 
 +Some features are disabled by default. Enable ImageMagick Advanced module.
 +![0000 basic image 001](https://cloud.githubusercontent.com/assets/2738244/24003797/d6aea9da-0a3a-11e7-9c30-d40a0e5240b3.png)
