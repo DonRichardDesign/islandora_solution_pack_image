@@ -25,7 +25,11 @@ Configure the image-tool kit to use ImageMagick rather than GD in Administration
 ![Configuration](https://user-images.githubusercontent.com/2738244/39441900-70d1ea60-4c7d-11e8-9c1a-f22be8606aca.png)
 
 *Some features are disabled by default. Enable ImageMagick Advanced module (admin/modules/).* ![0000 basic image 001](https://cloud.githubusercontent.com/assets/2738244/24003797/d6aea9da-0a3a-11e7-9c30-d40a0e5240b3.png)
-If you wish to prevent image upscaling for images under 500x700 select the configuration option present at Administration > Islandora > Solution pack configuration > Basic Image Solution Pack (admin/islandora/solution_pack_config/basic_image).
+If you wish to prevent image upscaling for images under 500x700 select the configuration option present at <br/> Administration > Islandora > Solution pack configuration > Basic Image Solution Pack (admin/islandora/solution_pack_config/basic_image).
+
+
+<img src="https://user-images.githubusercontent.com/2738244/39719241-a2282eba-5206-11e8-80b4-9d2d071a13db.png" alt="warning"  width="40" height="40" /> Enabling GraphicMagick support is for advanced users and has been known to cause issues if not properly configured.
+
 
 ## Documentation
 
